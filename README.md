@@ -1,4 +1,4 @@
 # RAVI cookies
-o site final da RAVI Cookies 
+o site final da RAVI Cookies uma empresa de doces artesanais
 
-link: https://ravicookies.netlify.app
+link: r4viel.github.io/ravicookies/
